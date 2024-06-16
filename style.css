@@ -652,6 +652,11 @@ body {
         /* position: relative; */
         z-index: 9;
     }
+
+    #fixed-image {
+        height: 60vw;
+        width: 45vw;
+    }
     
     #cannon {
         height: 82vw;
