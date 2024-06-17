@@ -556,6 +556,14 @@ body {
         position: relative;
         margin-left: 4%;
     }
+
+    #hero-shape {
+        position: absolute;
+        width: 82vw;
+        height: 76vw;
+        right: 0;
+        top: 65vh;
+    }
     
     #page2 {
         min-height: 100vh;
